@@ -17,7 +17,7 @@ namespace FamilyWood.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Hi noname.";
 
             return View();
         }
